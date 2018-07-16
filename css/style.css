@@ -4,7 +4,7 @@ body {
       font-size: 300%;
       background-color: orange;
       font-family: courier;
-      border: 1px dotted red;
+      border: 1px dotted blue;
       text-transform: uppercase;
       letter-spacing: 5px;
       transition: rotate(-30)deg;
