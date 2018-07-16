@@ -4,7 +4,7 @@ body {
       font-size: 100%;
       background-color: pink;
       font-family: american typewriter;
-      border: 4px dashed red;
+      border: 4px dashed green;
       text-transform: capitalize;
       letter-spacing: 1px;
       transition: rotate(-30)deg;
