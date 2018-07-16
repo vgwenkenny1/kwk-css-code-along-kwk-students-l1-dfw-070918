@@ -2,12 +2,12 @@
     
 body {
       font-size: 100%;
-      background-color: lightred;
+      background-color: lightblue;
       font-family: american typewriter;
       border: 4px dashed blue;
       text-transform: capitalize;
       letter-spacing: 1px;
       transition: rotate(-30)deg;
-      color: blue;
+      color: lightgreen;
     }
   
