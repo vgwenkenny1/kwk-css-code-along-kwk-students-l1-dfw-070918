@@ -6,7 +6,7 @@ body {
       font-family: american typewriter;
       border: 4px dashed red;
       text-transform: capitalize;
-      letter-spacing: 4px;
+      letter-spacing: 3px;
       transition: rotate(-30)deg;
     }
   
