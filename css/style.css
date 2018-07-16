@@ -4,10 +4,10 @@ body {
       font-size: 100%;
       background-color: pink;
       font-family: american typewriter;
-      border: 4px dashed green;
+      border: 4px dashed blue;
       text-transform: capitalize;
       letter-spacing: 1px;
       transition: rotate(-30)deg;
-      color: red;
+      color: blue;
     }
   
